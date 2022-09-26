@@ -1,3 +1,6 @@
+.background{
+    background-color: rgb(211, 211, 211);
+}
 .learner{
     margin-top: 100px;
     
@@ -34,11 +37,17 @@ h4{
     margin-left:60%;
 }
 .laststep{
-    margin-top: 100px;
+    margin-top:100px;
 }
 .Dev{
     background-color: black;
-    height:400px;
+    height:300px;
 }
-
+.footer{
+    text-align: center;
+    margin-top: 30px;
+}
+.text-white{
+    margin-top: 50px;
+}
     
