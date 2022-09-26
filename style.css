@@ -11,5 +11,34 @@ h4{
 #button{
     border-radius:20px;
 }
+.books{
+    margin-top: 100px;
+}
+.card{
+    border:none;
+    box-shadow: 5px 10px 20px lightgray;
+}
+.online{
+    text-align: center;
+    margin-top: 100px;
+    color:rgba(0, 0, 0, 0.281);
+    margin-bottom: 50px;
+}
+.test{
+    text-align: center;
+    margin-top: 100px;
+    color:rgba(0, 0, 0, 0.281);
+    margin-bottom: 50px;
+}
+#picture{
+    margin-left:60%;
+}
+.laststep{
+    margin-top: 100px;
+}
+.Dev{
+    background-color: black;
+    height:400px;
+}
 
     
